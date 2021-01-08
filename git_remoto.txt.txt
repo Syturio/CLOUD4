@@ -1,0 +1,10 @@
+git clone
+^Criar uma cópia de trabalho em um repositório local.
+
+
+git push
+^Enviar alterações para o repositório remoto.
+
+
+git pull
+^Atualizar o repositório local com a versão mais recente.
